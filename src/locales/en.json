@@ -10,14 +10,7 @@
       "twitterDescription": "Stream a Mukbang Wiki with active codes, foods, cash farming, setup upgrades, and Roblox update guides."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
