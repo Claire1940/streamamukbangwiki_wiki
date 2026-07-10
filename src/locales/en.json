@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Stream a Mukbang Wiki - Codes, Foods & Upgrades",
+      "description": "Stream a Mukbang Wiki with active codes, food unlocks, cash farming, setup upgrades, mansion progression, beginner tips, and Roblox update guides.",
+      "keywords": "Stream a Mukbang, Stream a Mukbang wiki, codes, foods, cash, upgrades, mansion, Roblox",
+      "ogTitle": "Stream a Mukbang Wiki - Codes, Foods & Upgrades",
+      "ogDescription": "Stream a Mukbang Wiki with active codes, food unlocks, cash farming, setup upgrades, mansion progression, beginner tips, and Roblox update guides.",
+      "twitterTitle": "Stream a Mukbang Wiki - Codes, Foods & Upgrades",
+      "twitterDescription": "Stream a Mukbang Wiki with active codes, foods, cash farming, setup upgrades, and Roblox update guides."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Food Streaming Simulator",
+    "title": "Stream a Mukbang Wiki",
+    "description": "Eat food live, grow your audience, earn Cash, unlock new dishes, upgrade your streaming setup, and progress from a basic room to a luxury mansion on Roblox.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "218K+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "4.6K+",
+        "label": "Players Online"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "2",
+        "label": "Active Codes"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "89%",
+        "label": "Player Rating"
       }
     }
   },
@@ -785,26 +785,25 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Stream a Mukbang?",
+    "description": "Play Stream a Mukbang on Roblox and join the vibing games community for codes, food guides, and streaming tips!",
+    "joinCommunity": "Join Community",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Stream a Mukbang Wiki",
+    "description": "Your complete resource hub for Stream a Mukbang codes, foods, cash farming, setup upgrades, and mansion progression guides on Roblox.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "robloxGame": "Play on Roblox",
+    "robloxCommunity": "vibing games Community",
+    "youtube": "Gameplay Video",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Stream a Mukbang Wiki. Not affiliated with vibing games or the developers of Stream a Mukbang.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
