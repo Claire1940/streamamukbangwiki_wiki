@@ -1,3 +1,0 @@
-# 此目录存放 MDX 内容文件。
-# 当前站点尚未生成内容（navigation 已清空，内容类型由后续 part 配置）。
-# 保留此占位文件确保目录被 git 跟踪，并供构建期 generate-content-manifest.mjs 扫描生成空清单。

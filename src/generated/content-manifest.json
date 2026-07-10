@@ -1,1 +1,500 @@
-{}
+{
+  "en": {
+    "audience": [
+      {
+        "slug": "stream-a-mukbang-audience-growth",
+        "file": "stream-a-mukbang-audience-growth"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-get-comments",
+        "file": "stream-a-mukbang-how-to-get-comments"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-get-followers",
+        "file": "stream-a-mukbang-how-to-get-followers"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-get-likes",
+        "file": "stream-a-mukbang-how-to-get-likes"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-get-views",
+        "file": "stream-a-mukbang-how-to-get-views"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "stream-a-mukbang-codes",
+        "file": "stream-a-mukbang-codes"
+      }
+    ],
+    "currency": [
+      {
+        "slug": "stream-a-mukbang-best-way-to-spend-cash",
+        "file": "stream-a-mukbang-best-way-to-spend-cash"
+      },
+      {
+        "slug": "stream-a-mukbang-cash-farming",
+        "file": "stream-a-mukbang-cash-farming"
+      },
+      {
+        "slug": "stream-a-mukbang-cash-multiplier",
+        "file": "stream-a-mukbang-cash-multiplier"
+      },
+      {
+        "slug": "stream-a-mukbang-cash-per-stream",
+        "file": "stream-a-mukbang-cash-per-stream"
+      }
+    ],
+    "food": [
+      {
+        "slug": "stream-a-mukbang-asmr-food",
+        "file": "stream-a-mukbang-asmr-food"
+      },
+      {
+        "slug": "stream-a-mukbang-best-food-for-cash",
+        "file": "stream-a-mukbang-best-food-for-cash"
+      },
+      {
+        "slug": "stream-a-mukbang-best-food",
+        "file": "stream-a-mukbang-best-food"
+      },
+      {
+        "slug": "stream-a-mukbang-food-prices",
+        "file": "stream-a-mukbang-food-prices"
+      },
+      {
+        "slug": "stream-a-mukbang-food-tier-list",
+        "file": "stream-a-mukbang-food-tier-list"
+      },
+      {
+        "slug": "stream-a-mukbang-food-unlocks",
+        "file": "stream-a-mukbang-food-unlocks"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "stream-a-mukbang-beginner-guide",
+        "file": "stream-a-mukbang-beginner-guide"
+      },
+      {
+        "slug": "stream-a-mukbang-controls",
+        "file": "stream-a-mukbang-controls"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-play",
+        "file": "stream-a-mukbang-how-to-play"
+      },
+      {
+        "slug": "stream-a-mukbang-reddit",
+        "file": "stream-a-mukbang-reddit"
+      },
+      {
+        "slug": "stream-a-mukbang-tips-and-tricks",
+        "file": "stream-a-mukbang-tips-and-tricks"
+      },
+      {
+        "slug": "stream-a-mukbang-walkthrough",
+        "file": "stream-a-mukbang-walkthrough"
+      }
+    ],
+    "progression": [
+      {
+        "slug": "stream-a-mukbang-best-room",
+        "file": "stream-a-mukbang-best-room"
+      },
+      {
+        "slug": "stream-a-mukbang-leaderboard",
+        "file": "stream-a-mukbang-leaderboard"
+      },
+      {
+        "slug": "stream-a-mukbang-progression-guide",
+        "file": "stream-a-mukbang-progression-guide"
+      },
+      {
+        "slug": "stream-a-mukbang-room-unlocks",
+        "file": "stream-a-mukbang-room-unlocks"
+      },
+      {
+        "slug": "stream-a-mukbang-starter-room",
+        "file": "stream-a-mukbang-starter-room"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "stream-a-mukbang-discord",
+        "file": "stream-a-mukbang-discord"
+      },
+      {
+        "slug": "stream-a-mukbang-latest-update",
+        "file": "stream-a-mukbang-latest-update"
+      },
+      {
+        "slug": "stream-a-mukbang-official-group",
+        "file": "stream-a-mukbang-official-group"
+      },
+      {
+        "slug": "stream-a-mukbang-update-log",
+        "file": "stream-a-mukbang-update-log"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "stream-a-mukbang-background-upgrades",
+        "file": "stream-a-mukbang-background-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-best-upgrades",
+        "file": "stream-a-mukbang-best-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-chair-upgrades",
+        "file": "stream-a-mukbang-chair-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-setup-upgrades",
+        "file": "stream-a-mukbang-setup-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-table-upgrades",
+        "file": "stream-a-mukbang-table-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-upgrade-order",
+        "file": "stream-a-mukbang-upgrade-order"
+      }
+    ]
+  },
+  "es": {
+    "audience": [
+      {
+        "slug": "stream-a-mukbang-audience-growth",
+        "file": "stream-a-mukbang-audience-growth"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-get-comments",
+        "file": "stream-a-mukbang-how-to-get-comments"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-get-followers",
+        "file": "stream-a-mukbang-how-to-get-followers"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-get-likes",
+        "file": "stream-a-mukbang-how-to-get-likes"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-get-views",
+        "file": "stream-a-mukbang-how-to-get-views"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "stream-a-mukbang-codes",
+        "file": "stream-a-mukbang-codes"
+      }
+    ],
+    "currency": [
+      {
+        "slug": "stream-a-mukbang-best-way-to-spend-cash",
+        "file": "stream-a-mukbang-best-way-to-spend-cash"
+      },
+      {
+        "slug": "stream-a-mukbang-cash-farming",
+        "file": "stream-a-mukbang-cash-farming"
+      },
+      {
+        "slug": "stream-a-mukbang-cash-multiplier",
+        "file": "stream-a-mukbang-cash-multiplier"
+      },
+      {
+        "slug": "stream-a-mukbang-cash-per-stream",
+        "file": "stream-a-mukbang-cash-per-stream"
+      }
+    ],
+    "food": [
+      {
+        "slug": "stream-a-mukbang-asmr-food",
+        "file": "stream-a-mukbang-asmr-food"
+      },
+      {
+        "slug": "stream-a-mukbang-best-food-for-cash",
+        "file": "stream-a-mukbang-best-food-for-cash"
+      },
+      {
+        "slug": "stream-a-mukbang-best-food",
+        "file": "stream-a-mukbang-best-food"
+      },
+      {
+        "slug": "stream-a-mukbang-food-prices",
+        "file": "stream-a-mukbang-food-prices"
+      },
+      {
+        "slug": "stream-a-mukbang-food-tier-list",
+        "file": "stream-a-mukbang-food-tier-list"
+      },
+      {
+        "slug": "stream-a-mukbang-food-unlocks",
+        "file": "stream-a-mukbang-food-unlocks"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "stream-a-mukbang-beginner-guide",
+        "file": "stream-a-mukbang-beginner-guide"
+      },
+      {
+        "slug": "stream-a-mukbang-controls",
+        "file": "stream-a-mukbang-controls"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-play",
+        "file": "stream-a-mukbang-how-to-play"
+      },
+      {
+        "slug": "stream-a-mukbang-reddit",
+        "file": "stream-a-mukbang-reddit"
+      },
+      {
+        "slug": "stream-a-mukbang-tips-and-tricks",
+        "file": "stream-a-mukbang-tips-and-tricks"
+      },
+      {
+        "slug": "stream-a-mukbang-walkthrough",
+        "file": "stream-a-mukbang-walkthrough"
+      }
+    ],
+    "progression": [
+      {
+        "slug": "stream-a-mukbang-best-room",
+        "file": "stream-a-mukbang-best-room"
+      },
+      {
+        "slug": "stream-a-mukbang-leaderboard",
+        "file": "stream-a-mukbang-leaderboard"
+      },
+      {
+        "slug": "stream-a-mukbang-progression-guide",
+        "file": "stream-a-mukbang-progression-guide"
+      },
+      {
+        "slug": "stream-a-mukbang-room-unlocks",
+        "file": "stream-a-mukbang-room-unlocks"
+      },
+      {
+        "slug": "stream-a-mukbang-starter-room",
+        "file": "stream-a-mukbang-starter-room"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "stream-a-mukbang-discord",
+        "file": "stream-a-mukbang-discord"
+      },
+      {
+        "slug": "stream-a-mukbang-latest-update",
+        "file": "stream-a-mukbang-latest-update"
+      },
+      {
+        "slug": "stream-a-mukbang-official-group",
+        "file": "stream-a-mukbang-official-group"
+      },
+      {
+        "slug": "stream-a-mukbang-update-log",
+        "file": "stream-a-mukbang-update-log"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "stream-a-mukbang-background-upgrades",
+        "file": "stream-a-mukbang-background-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-best-upgrades",
+        "file": "stream-a-mukbang-best-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-chair-upgrades",
+        "file": "stream-a-mukbang-chair-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-setup-upgrades",
+        "file": "stream-a-mukbang-setup-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-table-upgrades",
+        "file": "stream-a-mukbang-table-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-upgrade-order",
+        "file": "stream-a-mukbang-upgrade-order"
+      }
+    ]
+  },
+  "pt": {
+    "audience": [
+      {
+        "slug": "stream-a-mukbang-audience-growth",
+        "file": "stream-a-mukbang-audience-growth"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-get-comments",
+        "file": "stream-a-mukbang-how-to-get-comments"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-get-followers",
+        "file": "stream-a-mukbang-how-to-get-followers"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-get-likes",
+        "file": "stream-a-mukbang-how-to-get-likes"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-get-views",
+        "file": "stream-a-mukbang-how-to-get-views"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "stream-a-mukbang-codes",
+        "file": "stream-a-mukbang-codes"
+      }
+    ],
+    "currency": [
+      {
+        "slug": "stream-a-mukbang-best-way-to-spend-cash",
+        "file": "stream-a-mukbang-best-way-to-spend-cash"
+      },
+      {
+        "slug": "stream-a-mukbang-cash-farming",
+        "file": "stream-a-mukbang-cash-farming"
+      },
+      {
+        "slug": "stream-a-mukbang-cash-multiplier",
+        "file": "stream-a-mukbang-cash-multiplier"
+      },
+      {
+        "slug": "stream-a-mukbang-cash-per-stream",
+        "file": "stream-a-mukbang-cash-per-stream"
+      }
+    ],
+    "food": [
+      {
+        "slug": "stream-a-mukbang-asmr-food",
+        "file": "stream-a-mukbang-asmr-food"
+      },
+      {
+        "slug": "stream-a-mukbang-best-food-for-cash",
+        "file": "stream-a-mukbang-best-food-for-cash"
+      },
+      {
+        "slug": "stream-a-mukbang-best-food",
+        "file": "stream-a-mukbang-best-food"
+      },
+      {
+        "slug": "stream-a-mukbang-food-prices",
+        "file": "stream-a-mukbang-food-prices"
+      },
+      {
+        "slug": "stream-a-mukbang-food-tier-list",
+        "file": "stream-a-mukbang-food-tier-list"
+      },
+      {
+        "slug": "stream-a-mukbang-food-unlocks",
+        "file": "stream-a-mukbang-food-unlocks"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "stream-a-mukbang-beginner-guide",
+        "file": "stream-a-mukbang-beginner-guide"
+      },
+      {
+        "slug": "stream-a-mukbang-controls",
+        "file": "stream-a-mukbang-controls"
+      },
+      {
+        "slug": "stream-a-mukbang-how-to-play",
+        "file": "stream-a-mukbang-how-to-play"
+      },
+      {
+        "slug": "stream-a-mukbang-reddit",
+        "file": "stream-a-mukbang-reddit"
+      },
+      {
+        "slug": "stream-a-mukbang-tips-and-tricks",
+        "file": "stream-a-mukbang-tips-and-tricks"
+      },
+      {
+        "slug": "stream-a-mukbang-walkthrough",
+        "file": "stream-a-mukbang-walkthrough"
+      }
+    ],
+    "progression": [
+      {
+        "slug": "stream-a-mukbang-best-room",
+        "file": "stream-a-mukbang-best-room"
+      },
+      {
+        "slug": "stream-a-mukbang-leaderboard",
+        "file": "stream-a-mukbang-leaderboard"
+      },
+      {
+        "slug": "stream-a-mukbang-progression-guide",
+        "file": "stream-a-mukbang-progression-guide"
+      },
+      {
+        "slug": "stream-a-mukbang-room-unlocks",
+        "file": "stream-a-mukbang-room-unlocks"
+      },
+      {
+        "slug": "stream-a-mukbang-starter-room",
+        "file": "stream-a-mukbang-starter-room"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "stream-a-mukbang-discord",
+        "file": "stream-a-mukbang-discord"
+      },
+      {
+        "slug": "stream-a-mukbang-latest-update",
+        "file": "stream-a-mukbang-latest-update"
+      },
+      {
+        "slug": "stream-a-mukbang-official-group",
+        "file": "stream-a-mukbang-official-group"
+      },
+      {
+        "slug": "stream-a-mukbang-update-log",
+        "file": "stream-a-mukbang-update-log"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "stream-a-mukbang-background-upgrades",
+        "file": "stream-a-mukbang-background-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-best-upgrades",
+        "file": "stream-a-mukbang-best-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-chair-upgrades",
+        "file": "stream-a-mukbang-chair-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-setup-upgrades",
+        "file": "stream-a-mukbang-setup-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-table-upgrades",
+        "file": "stream-a-mukbang-table-upgrades"
+      },
+      {
+        "slug": "stream-a-mukbang-upgrade-order",
+        "file": "stream-a-mukbang-upgrade-order"
+      }
+    ]
+  }
+}

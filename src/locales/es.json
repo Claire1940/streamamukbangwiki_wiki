@@ -1,1 +1,12 @@
-{}
+{
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "food": "Food",
+    "currency": "Currency",
+    "audience": "Audience",
+    "upgrades": "Upgrades",
+    "progression": "Progression",
+    "updates": "Updates"
+  }
+}

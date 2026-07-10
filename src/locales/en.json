@@ -10,7 +10,16 @@
       "twitterDescription": "Stream a Mukbang Wiki with active codes, foods, cash farming, setup upgrades, and Roblox update guides."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "food": "Food",
+    "currency": "Currency",
+    "audience": "Audience",
+    "upgrades": "Upgrades",
+    "progression": "Progression",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -513,122 +522,162 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Stream a Mukbang Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced cash farming and setup upgrade strategies.",
-      "metaTitle": "Stream a Mukbang Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Stream a Mukbang guides covering beginner tips, codes, food lists, cash farming, setup upgrades, and expert tactics for the Roblox food-streaming simulator.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, streaming strategies, and the food-ordering loop. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "codes": {
+      "title": "Stream a Mukbang Codes",
+      "description": "Latest working Stream a Mukbang codes for free Cash and food rewards, plus a step-by-step redeem guide.",
+      "metaTitle": "Stream a Mukbang Codes - Free Cash & Food Rewards",
+      "metaDescription": "Get free Cash and food with active Stream a Mukbang codes. Updated regularly with verified working codes and a quick redeem guide.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Codes?",
+      "whatIsDescription": "Codes are free rewards released by the vibing games! developers. Each code grants Cash or food items to help you start streaming and upgrade your setup faster.",
+      "why": "Why redeem codes?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the streaming loop and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to earn Cash and grow your audience",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for food choice and setup upgrades"
+        "step1Title": "Claim Free Resources",
+        "step1Description": "Redeem active codes for free Cash and starter food items",
+        "step2Title": "Skip the Slow Start",
+        "step2Description": "Use free food to launch your first stream without spending Cash",
+        "step3Title": "Check Code Status",
+        "step3Description": "See which codes are active or expired before you redeem"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
+    "guide": {
+      "title": "Stream a Mukbang Guide",
+      "description": "Beginner-friendly Stream a Mukbang guides covering the core streaming loop, controls, and your first upgrade path.",
+      "metaTitle": "Stream a Mukbang Guide - Beginner Walkthrough & Tips",
+      "metaDescription": "Learn how to play Stream a Mukbang with beginner guides on the core streaming loop, controls, eating food, earning Cash, and your first upgrades.",
+      "categoryLabel": "BEGINNER GUIDE",
+      "whatIs": "What is the Guide?",
+      "whatIsDescription": "Guides that walk new players through starting a live stream, eating food on camera, earning Cash, and making the first setup upgrades.",
+      "why": "Why read the guide?",
+      "whySteps": {
+        "step1Title": "Master the Core Loop",
+        "step1Description": "Understand the stream, eat, earn, and upgrade cycle",
+        "step2Title": "Learn the Interface",
+        "step2Description": "Get familiar with controls, buttons, and on-screen stats",
+        "step3Title": "Build a Strong Start",
+        "step3Description": "Follow a clear first-hour path to steady Cash and growth"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
+    "food": {
       "title": "Stream a Mukbang Foods",
-      "description": "Master the food menu with cost, unlock, eating style, and streaming value for every dish.",
-      "metaTitle": "Stream a Mukbang Foods - Full Food Menu & Costs",
-      "metaDescription": "Master the Stream a Mukbang food menu. Compare food costs, unlock requirements, eating styles, and streaming value to choose the best dish for every stream.",
+      "description": "Full Stream a Mukbang food list with prices, unlock conditions, eating style, and streaming value for every dish.",
+      "metaTitle": "Stream a Mukbang Foods - Food List, Prices & Tier List",
+      "metaDescription": "Compare every Stream a Mukbang food by price, unlock requirement, eating speed, and streaming value. Find the best dish for Cash and audience growth.",
       "categoryLabel": "FOOD MENU",
       "whatIs": "What are Foods?",
-      "whatIsDescription": "Food is the core resource used during every mukbang stream. Each item can be eaten live to generate audience engagement and Cash.",
+      "whatIsDescription": "Food is the core of every mukbang stream. Each dish is eaten live to generate audience engagement and Cash, with different costs, unlock levels, and eating speeds.",
       "why": "Why compare foods?",
       "whySteps": {
         "step1Title": "Pick the Right Dish",
         "step1Description": "Match each food's cost and eating style to your stream goal",
-        "step2Title": "Save Cash",
+        "step2Title": "Save Your Cash",
         "step2Description": "Avoid overspending on premium foods too early",
         "step3Title": "Maximize Engagement",
-        "step3Description": "Choose foods that keep the audience reacting"
+        "step3Description": "Choose foods that keep your audience reacting"
       },
       "featured": "Featured & Essential",
       "all": "All Food Guides"
     },
-    "items": {
-      "title": "Stream a Mukbang Setup",
-      "description": "Detailed upgrade guides covering chairs, tables, backgrounds, and room progression with costs and priority tips.",
-      "metaTitle": "Stream a Mukbang Setup - Chairs, Tables & Backgrounds",
-      "metaDescription": "Complete Stream a Mukbang setup guide including chairs, tables, backgrounds, and rooms. Learn what to upgrade first for the fastest Cash and audience growth.",
-      "categoryLabel": "SETUP & UPGRADES",
-      "whatIs": "What is the Setup?",
-      "whatIsDescription": "Comprehensive guides for chairs, tables, backgrounds, and room progression. Learn upgrade costs, priority order, and how each piece supports your streaming loop.",
-      "why": "Why check setup guides?",
+    "currency": {
+      "title": "Stream a Mukbang Cash",
+      "description": "Stream a Mukbang Cash farming guides covering every income source, multipliers, and the smartest spending order.",
+      "metaTitle": "Stream a Mukbang Cash - Farming, Multipliers & Spending",
+      "metaDescription": "Master Cash in Stream a Mukbang with farming routes, multipliers, Cash-per-stream tips, and the best way to spend Cash on upgrades and rooms.",
+      "categoryLabel": "CASH GUIDES",
+      "whatIs": "What is Cash?",
+      "whatIsDescription": "Cash is the main currency earned from every stream. It pays for food, chair and table upgrades, backgrounds, and new rooms on the path to the mansion.",
+      "why": "Why manage Cash?",
       "whySteps": {
-        "step1Title": "Spend Cash Wisely",
-        "step1Description": "Discover which upgrades give the best value first",
-        "step2Title": "Plan Progression",
-        "step2Description": "Order upgrades to match your stage of the game",
-        "step3Title": "Reach the Mansion",
-        "step3Description": "Build toward the luxury mansion without stalling"
+        "step1Title": "Know Every Source",
+        "step1Description": "Learn all the ways Cash flows into your channel",
+        "step2Title": "Use Multipliers",
+        "step2Description": "Stack boosts to raise your Cash per stream",
+        "step3Title": "Spend in the Right Order",
+        "step3Description": "Put Cash into upgrades and rooms that pay off fastest"
       },
       "featured": "Featured & Essential",
-      "all": "All Setup Guides"
+      "all": "All Cash Guides"
     },
-    "biomes": {
-      "title": "Stream a Mukbang Rooms",
-      "description": "Explore room progression, environment upgrades, and milestones from the starter room to the luxury mansion.",
-      "metaTitle": "Stream a Mukbang Rooms - Room Progression & Mansion",
-      "metaDescription": "Explore Stream a Mukbang room progression from the basic starter room to the luxury mansion. Find upgrade milestones, Cash requirements, and progression tips.",
+    "audience": {
+      "title": "Stream a Mukbang Audience",
+      "description": "Grow your Stream a Mukbang audience with guides on views, likes, comments, followers, and climbing the streamer leaderboard.",
+      "metaTitle": "Stream a Mukbang Audience - Views, Likes & Followers",
+      "metaDescription": "Grow views, likes, comments, and followers in Stream a Mukbang. Learn which foods and upgrades boost engagement and how to climb the streamer leaderboard.",
+      "categoryLabel": "AUDIENCE GROWTH",
+      "whatIs": "What is the Audience?",
+      "whatIsDescription": "Your audience is measured in views, likes, comments, and followers. A bigger, more engaged audience earns more Cash per stream and unlocks higher growth.",
+      "why": "Why grow your audience?",
+      "whySteps": {
+        "step1Title": "Raise Your Views",
+        "step1Description": "Use the right foods and upgrades to push view counts",
+        "step2Title": "Gain Followers",
+        "step2Description": "Turn one-time viewers into a loyal follower base",
+        "step3Title": "Climb the Leaderboard",
+        "step3Description": "Compete with top streamers and unlock ranking rewards"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Audience Guides"
+    },
+    "upgrades": {
+      "title": "Stream a Mukbang Upgrades",
+      "description": "Stream a Mukbang setup upgrade guides for chairs, tables, and backgrounds with costs, effects, and the best buy order.",
+      "metaTitle": "Stream a Mukbang Upgrades - Chairs, Tables & Backgrounds",
+      "metaDescription": "Compare Stream a Mukbang chair, table, and background upgrades by cost and effect. Find the best upgrade order for faster Cash and audience growth.",
+      "categoryLabel": "SETUP UPGRADES",
+      "whatIs": "What are Upgrades?",
+      "whatIsDescription": "Setup upgrades cover chairs, tables, and backgrounds. Each upgrade improves your streaming efficiency, audience engagement, and Cash earnings.",
+      "why": "Why upgrade your setup?",
+      "whySteps": {
+        "step1Title": "Spend Cash Wisely",
+        "step1Description": "Find which upgrades give the best value first",
+        "step2Title": "Upgrade in Order",
+        "step2Description": "Match upgrades to your current stage of the game",
+        "step3Title": "Boost Efficiency",
+        "step3Description": "Raise your Cash and engagement per stream"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Upgrade Guides"
+    },
+    "progression": {
+      "title": "Stream a Mukbang Progression",
+      "description": "Stream a Mukbang progression guides from the starter room to the luxury mansion, with unlock costs and milestone order.",
+      "metaTitle": "Stream a Mukbang Progression - Rooms & Mansion Unlock",
+      "metaDescription": "Follow Stream a Mukbang room progression from the starter room to the luxury mansion. Find unlock costs, milestones, and the smoothest progression order.",
       "categoryLabel": "ROOM PROGRESSION",
-      "whatIs": "What are Rooms?",
-      "whatIsDescription": "Guides to each room stage, environment features, upgrade milestones, and Cash requirements. Learn what to expect and how to prepare for each new space.",
-      "why": "Why follow room guides?",
+      "whatIs": "What is Progression?",
+      "whatIsDescription": "Progression tracks your journey from the basic starter room to the luxury mansion. Each room and milestone unlocks new foods, upgrades, and streaming features.",
+      "why": "Why plan progression?",
       "whySteps": {
         "step1Title": "Plan Your Cash",
         "step1Description": "Know how much each room stage costs before committing",
         "step2Title": "Upgrade in Order",
-        "step2Description": "Complete setup upgrades before moving rooms",
+        "step2Description": "Finish setup upgrades before moving to a new room",
         "step3Title": "Reach the Mansion",
-        "step3Description": "Progress smoothly to the luxury mansion"
+        "step3Description": "Progress smoothly to the luxury mansion without stalling"
       },
       "featured": "Featured & Essential",
-      "all": "All Room Guides"
+      "all": "All Progression Guides"
     },
-    "building": {
-      "title": "Stream a Mukbang Studio",
-      "description": "Master streaming setup design, furniture combinations, and studio presentation techniques.",
-      "metaTitle": "Stream a Mukbang Studio - Setup Design & Furniture",
-      "metaDescription": "Master your Stream a Mukbang streaming studio with setup design, furniture combinations, background choices, and presentation techniques for a top streamer look.",
-      "categoryLabel": "STUDIO & DESIGN",
-      "whatIs": "What is a Studio?",
-      "whatIsDescription": "Guides to designing your streaming space, combining furniture and backgrounds, and presenting food for maximum audience engagement.",
-      "why": "Why design your studio?",
-      "whySteps": {
-        "step1Title": "Look Professional",
-        "step1Description": "Build a streaming space that attracts and keeps viewers",
-        "step2Title": "Combine Smartly",
-        "step2Description": "Pair chairs, tables, and backgrounds effectively",
-        "step3Title": "Stand Out",
-        "step3Description": "Create a recognizable top-streamer look"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Studio Guides"
-    },
-    "support": {
+    "updates": {
       "title": "Stream a Mukbang Updates",
-      "description": "Code updates, new foods, balance changes, and official community announcements.",
+      "description": "Latest Stream a Mukbang updates with new codes, foods, upgrades, balance changes, and official community news.",
       "metaTitle": "Stream a Mukbang Updates - New Codes & Patch Notes",
-      "metaDescription": "Get the latest Stream a Mukbang updates including new codes, foods, setup upgrades, balance changes, and official community announcements.",
-      "categoryLabel": "UPDATES & COMMUNITY",
+      "metaDescription": "Stay current with Stream a Mukbang updates including new codes, foods, setup upgrades, balance changes, and official announcements from vibing games!.",
+      "categoryLabel": "UPDATES & NEWS",
       "whatIs": "What are Updates?",
-      "whatIsDescription": "Guides covering new codes, foods, setup additions, room changes, and official announcements from the vibing games community.",
+      "whatIsDescription": "Updates track every change in the game: new codes, foods, setup upgrades, room additions, balance tweaks, and official announcements from the developers.",
       "why": "Why follow updates?",
       "whySteps": {
         "step1Title": "Never Miss a Code",
         "step1Description": "Redeem new codes as soon as they drop",
         "step2Title": "Stay Current",
         "step2Description": "Track new foods, upgrades, and balance changes",
-        "step3Title": "Join the Community",
-        "step3Description": "Follow official channels for announcements"
+        "step3Title": "Follow Official News",
+        "step3Description": "Keep up with announcements from vibing games!"
       },
       "featured": "Featured & Essential",
       "all": "All Update Articles"
