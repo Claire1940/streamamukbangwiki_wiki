@@ -28,6 +28,16 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // Stream a Mukbang 主题图标（食物 / 直播 / 成长）
+  Gift: LucideIcons.Gift,
+  GraduationCap: LucideIcons.GraduationCap,
+  UtensilsCrossed: LucideIcons.UtensilsCrossed,
+  Coins: LucideIcons.Coins,
+  Armchair: LucideIcons.Armchair,
+  Crown: LucideIcons.Crown,
+  Newspaper: LucideIcons.Newspaper,
+  Play: LucideIcons.Play,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,
