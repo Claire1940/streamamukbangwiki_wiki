@@ -7,24 +7,28 @@ export const dynamic = 'force-static'
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.streamamukbangwiki.wiki'
 
-// 内容类型优先级配置
+// 内容类型优先级配置（与 navigation.ts 的 8 个分类对应）
 const contentTypePriority: Record<string, number> = {
-	'guides': 0.9,
-	'crafting': 0.9,
-	'items': 0.8,
-	'biomes': 0.8,
-	'building': 0.8,
-	'support': 0.6,
+	'codes': 0.9,
+	'guide': 0.9,
+	'food': 0.8,
+	'currency': 0.8,
+	'audience': 0.8,
+	'upgrades': 0.8,
+	'progression': 0.8,
+	'updates': 0.9,
 }
 
-// 内容更新频率配置
+// 内容更新频率配置（codes / updates 高频变化，其余周更）
 const contentTypeChangeFrequency: Record<string, 'daily' | 'weekly' | 'monthly'> = {
-	'guides': 'weekly',
-	'crafting': 'weekly',
-	'items': 'weekly',
-	'biomes': 'weekly',
-	'building': 'weekly',
-	'support': 'monthly',
+	'codes': 'daily',
+	'guide': 'weekly',
+	'food': 'weekly',
+	'currency': 'weekly',
+	'audience': 'weekly',
+	'upgrades': 'weekly',
+	'progression': 'weekly',
+	'updates': 'daily',
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

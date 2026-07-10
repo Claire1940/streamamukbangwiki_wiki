@@ -1,12 +1,686 @@
 {
+  "seo": {
+    "home": {
+      "title": "Stream a Mukbang Wiki - Códigos, Comidas e Upgrades",
+      "description": "Stream a Mukbang Wiki com códigos ativos, desbloqueios de comida, farm de Cash, upgrades de setup, progressão de mansão, dicas para iniciantes e guias de atualização do Roblox.",
+      "keywords": "Stream a Mukbang, Stream a Mukbang wiki, códigos, comidas, cash, upgrades, mansão, Roblox",
+      "ogTitle": "Stream a Mukbang Wiki - Códigos, Comidas e Upgrades",
+      "ogDescription": "Stream a Mukbang Wiki com códigos ativos, desbloqueios de comida, farm de Cash, upgrades de setup, progressão de mansão, dicas para iniciantes e guias de atualização do Roblox.",
+      "twitterTitle": "Stream a Mukbang Wiki - Códigos, Comidas e Upgrades",
+      "twitterDescription": "Stream a Mukbang Wiki com códigos ativos, comidas, farm de Cash, upgrades de setup e guias de atualização do Roblox."
+    }
+  },
   "nav": {
-    "codes": "Codes",
-    "guide": "Guide",
-    "food": "Food",
-    "currency": "Currency",
-    "audience": "Audience",
+    "codes": "Códigos",
+    "guide": "Guia",
+    "food": "Comida",
+    "currency": "Moeda",
+    "audience": "Audiência",
     "upgrades": "Upgrades",
-    "progression": "Progression",
-    "updates": "Updates"
+    "progression": "Progressão",
+    "updates": "Atualizações"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar para o Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Simulador de Streaming de Comida",
+    "title": "Stream a Mukbang Wiki",
+    "description": "Coma comida ao vivo, aumente sua audiência, ganhe Cash, desbloqueie novos pratos, faça upgrade no seu setup de streaming e progrida de um quarto básico para uma mansão de luxo no Roblox.",
+    "getFreeCodesCTA": "Obter Códigos Grátis",
+    "playOnRobloxCTA": "Jogar no Roblox",
+    "stats": {
+      "stat1": {
+        "value": "218K+",
+        "label": "Total de Visitas"
+      },
+      "stat2": {
+        "value": "4.6K+",
+        "label": "Jogadores Online"
+      },
+      "stat3": {
+        "value": "2",
+        "label": "Códigos Ativos"
+      },
+      "stat4": {
+        "value": "89%",
+        "label": "Avaliação dos Jogadores"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jogabilidade de Stream a Mukbang",
+    "description": "Coma comida ao vivo na câmera, atraia espectadores, ganhe Cash, desbloqueie novos pratos, faça upgrade no seu setup de streaming e progrida de um quarto básico para uma mansão de luxo neste simulador de streaming de comida no Roblox."
+  },
+  "tools": {
+    "title": "Stream a Mukbang",
+    "titleHighlight": "Guias",
+    "subtitle": "Tudo o que você precisa para códigos, comidas, Cash, upgrades e progressão em Stream a Mukbang.",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Códigos",
+        "description": "Códigos ativos de Stream a Mukbang para Cash e comida grátis"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Guia para Iniciantes",
+        "description": "Comece a transmitir, coma comida e ganhe seu primeiro Cash"
+      },
+      {
+        "icon": "UtensilsCrossed",
+        "title": "Lista de Comidas",
+        "description": "Custo, desbloqueio e valor de streaming de cada comida"
+      },
+      {
+        "icon": "Coins",
+        "title": "Farm de Cash",
+        "description": "Rotas rápidas de Cash do quarto inicial para um setup de luxo"
+      },
+      {
+        "icon": "Armchair",
+        "title": "Melhores Upgrades",
+        "description": "Cadeiras, mesas e cenários classificados por prioridade"
+      },
+      {
+        "icon": "Users",
+        "title": "Crescimento de Audiência",
+        "description": "Visualizações, likes, seguidores e comentários explicados"
+      },
+      {
+        "icon": "Crown",
+        "title": "Quarto e Mansão",
+        "description": "O caminho de progressão até a mansão de luxo"
+      },
+      {
+        "icon": "Newspaper",
+        "title": "Atualizações",
+        "description": "Últimas comidas, códigos, upgrades e notícias oficiais"
+      }
+    ]
+  },
+  "modules": {
+    "streamMukbangCodes": {
+      "title": "Códigos de Stream a Mukbang",
+      "eyebrow": "Recompensas Gratuitas",
+      "subtitle": "Resgate os códigos mais recentes para ganhar Cash e comida de graça. Os códigos devem ser inseridos exatamente como exibidos.",
+      "intro": "Abra Stream a Mukbang no Roblox, toque no botão Codes no lado direito da tela, insira um código de cada vez e pressione Redeem. Se um código válido não for processado imediatamente, reinicie o jogo e tente novamente.",
+      "codes": [
+        {
+          "code": "RELEASE",
+          "reward": "1.000 Cash",
+          "status": "Ativo",
+          "note": "Insira RELEASE em letras maiúsculas e pressione Redeem."
+        },
+        {
+          "code": "FREEFOOD",
+          "reward": "Frango",
+          "status": "Ativo",
+          "note": "Insira FREEFOOD em letras maiúsculas e pressione Redeem."
+        }
+      ],
+      "expiredNote": "Não há códigos expirados de Stream a Mukbang listados no momento. Use os dois códigos ativos antes de gastar Cash em suas primeiras comidas e melhorias de cenário.",
+      "howTo": [
+        "Abra Stream a Mukbang no Roblox.",
+        "Toque no botão Codes no lado direito da tela.",
+        "Digite um código exatamente como mostrado e pressione Redeem.",
+        "Se um código válido não for processado, reinicie o jogo e resgate-o novamente."
+      ]
+    },
+    "streamMukbangBeginnerGuide": {
+      "title": "Guia para Iniciantes de Stream a Mukbang",
+      "eyebrow": "Primeiros Passos",
+      "subtitle": "Siga este roteiro para iniciantes para transformar o quarto básico inicial em um setup de mukbang lucrativo.",
+      "intro": "O ciclo principal de progressão é simples: escolha a comida, coma durante uma transmissão ao vivo, atraia engajamento, colete Cash e reinvista seus ganhos. Visualizações, curtidas, seguidores e comentários crescem conforme você continua transmitindo.",
+      "steps": [
+        {
+          "title": "Resgate os Códigos Iniciais",
+          "description": "Resgate RELEASE para 1.000 Cash e FREEFOOD para Frango antes de fazer qualquer compra."
+        },
+        {
+          "title": "Prepare o Quarto Inicial",
+          "description": "Entre no seu quarto de transmissão básico e use a mesa, cadeira e fundo iniciais."
+        },
+        {
+          "title": "Escolha Sua Primeira Comida",
+          "description": "Use o Frango gratuito ou compre um item de comida acessível no menu de comida."
+        },
+        {
+          "title": "Comece a Comer ao Vivo",
+          "description": "Inicie uma transmissão e continue dando mordidas até que a comida selecionada acabe."
+        },
+        {
+          "title": "Colete Cash e Engajamento",
+          "description": "A transmissão gera visualizações, curtidas, seguidores, comentários e Cash enquanto você come."
+        },
+        {
+          "title": "Repita o Ciclo de Transmissão",
+          "description": "Use seus ganhos para obter mais comida e realizar transmissões adicionais em sequência."
+        },
+        {
+          "title": "Melhore o Setup",
+          "description": "Gaste Cash extra em cadeiras, mesas e fundos melhores, e então trabalhe para alcançar a mansão de luxo."
+        }
+      ]
+    },
+    "streamMukbangFoodGuide": {
+      "title": "Guia de Comidas de Stream a Mukbang",
+      "eyebrow": "Menu de Comida",
+      "subtitle": "Compare comidas confirmadas por categoria, custo, estilo de consumo e seu papel na sua progressão de transmissão.",
+      "intro": "A comida é o recurso principal usado durante cada transmissão de mukbang. Cada item pode ser comido ao vivo para gerar engajamento do público e Cash, enquanto comidas especiais adicionam variedade para transmissões posteriores.",
+      "foods": [
+        {
+          "name": "Frango",
+          "category": "Comida Inicial",
+          "cost": "Grátis com o código FREEFOOD",
+          "use": "Melhor primeira comida para iniciar o ciclo de progressão sem gastar Cash."
+        },
+        {
+          "name": "Frango Frito",
+          "category": "Refeição de Frango",
+          "cost": "Compra com Cash",
+          "use": "Uma opção de refeição regular para continuar transmissões após usar a recompensa do código gratuito."
+        },
+        {
+          "name": "Corn Dog",
+          "category": "Comida de Mão",
+          "cost": "Compra com Cash",
+          "use": "Útil para transmissões curtas focadas em comida e rodadas rápidas de menu."
+        },
+        {
+          "name": "Mozzarella Corn Dog",
+          "category": "Corn Dog Especial",
+          "cost": "Compra com Cash",
+          "use": "Adiciona variedade ao progredir além das escolhas básicas de comida."
+        },
+        {
+          "name": "Hot Cheeto Spicy Corn Dog",
+          "category": "Comida Especial Apimentada",
+          "cost": "Compra com Cash",
+          "use": "Adequado para transmissões temáticas de comida apimentada e corn dogs."
+        },
+        {
+          "name": "Takis Dog",
+          "category": "Comida Especial Apimentada",
+          "cost": "Compra com Cash",
+          "use": "Fornece outra escolha de comida apimentada para sessões variadas de mukbang."
+        },
+        {
+          "name": "Carbonara",
+          "category": "Refeição Principal",
+          "cost": "Compra com Cash",
+          "use": "Projetado para uma apresentação de refeição principal mais longa do que pequenas comidas de mão."
+        },
+        {
+          "name": "Pizza",
+          "category": "Refeição Grande",
+          "cost": "Compra com Cash",
+          "use": "Uma escolha visual forte para transmissões de demonstração mais longas."
+        }
+      ]
+    },
+    "streamMukbangCashFarming": {
+      "title": "Guia de Farm de Cash no Stream a Mukbang",
+      "eyebrow": "Farm de Cash",
+      "subtitle": "Use recompensas gratuitas, repita transmissões de comer eficientes e reinvista com cuidado para evoluir do quarto inicial para um setup de luxo.",
+      "intro": "O Cash é ganho através de transmissões de mukbang e gasto em comida e melhorias de setup. O caminho mais confiável é manter a comida disponível, concluir transmissões de forma consistente e adiar melhorias caras de quarto até que seu ciclo básico de renda esteja estabelecido.",
+      "stages": [
+        {
+          "stage": "Impulso Inicial",
+          "focus": "Acesso ao menu de códigos",
+          "method": "Resgate RELEASE e FREEFOOD antes de fazer qualquer compra.",
+          "priority": "Use o Frango grátis primeiro e poupe a recompensa de 1.000 de Cash."
+        },
+        {
+          "stage": "Início do Jogo",
+          "focus": "Quarto inicial e pelo menos um item de comida",
+          "method": "Coma comida ao vivo, termine a transmissão, colete Cash e comece imediatamente outra transmissão acessível.",
+          "priority": "Mantenha Cash suficiente disponível para a próxima compra de comida."
+        },
+        {
+          "stage": "Crescimento de Público",
+          "focus": "Várias transmissões concluídas",
+          "method": "Continue transmitindo para acumular visualizações, likes, seguidores e comentários enquanto ganha Cash.",
+          "priority": "Expanda a seleção de comida antes de comprar várias melhorias visuais caras."
+        },
+        {
+          "stage": "Expansão do Setup",
+          "focus": "Suprimento estável de comida e Cash extra",
+          "method": "Alterne transmissões de comida lucrativas com melhorias planejadas de mobília.",
+          "priority": "Melhore cadeiras, mesas e planos de fundo uma categoria de cada vez."
+        },
+        {
+          "stage": "Fase Avançada",
+          "focus": "Comida avançada e um setup melhorado",
+          "method": "Realize transmissões contínuas de refeições maiores e reinvista os ganhos nas melhorias restantes do quarto.",
+          "priority": "Complete o setup da mansão de luxo e continue aumentando o público."
+        }
+      ]
+    },
+    "streamMukbangBestUpgrades": {
+      "title": "Melhores Upgrades de Stream a Mukbang",
+      "eyebrow": "Upgrades de Setup",
+      "subtitle": "Compare os principais upgrades de setup e decida onde gastar seu Cash primeiro. Fortaleça as partes funcionais do setup antes de comprar melhorias cosméticas.",
+      "intro": "Stream a Mukbang permite que os jogadores melhorem cadeiras, mesas, planos de fundo e quartos à medida que seu canal cresce. Um caminho prático é fortalecer as partes funcionais do setup primeiro, melhorar a apresentação do quarto em segundo lugar e economizar para as compras de progressão mais caras para depois.",
+      "upgrades": [
+        {
+          "name": "Mesa",
+          "role": "A parte central do setup de mukbang onde a comida é colocada e os pedidos são feitos.",
+          "priority": "Máxima",
+          "timing": "Compre melhorias de mesa primeiro, assim que puder pagar por elas.",
+          "tip": "Mantenha Cash suficiente disponível para pedir comida após melhorar a mesa."
+        },
+        {
+          "name": "Cadeira",
+          "role": "Melhora a área de assento visível usada ao gravar transmissões de mukbang.",
+          "priority": "Alta",
+          "timing": "Melhore após garantir uma mesa útil e um suprimento constante de comida.",
+          "tip": "Escolha a próxima cadeira acessível em vez de economizar cedo demais para um quarto de fase avançada."
+        },
+        {
+          "name": "Plano de Fundo",
+          "role": "Altera o cenário exibido atrás do jogador durante as transmissões.",
+          "priority": "Média",
+          "timing": "Compre depois que o orçamento de mesa, cadeira e comida estiver sob controle.",
+          "tip": "Trate os planos de fundo como uma compra de meio de jogo, e não como o primeiro lugar para gastar Cash."
+        },
+        {
+          "name": "Expansão de Quarto",
+          "role": "Leva o jogador além do quarto básico em direção a espaços de transmissão maiores e mais luxuosos.",
+          "priority": "Fase Avançada",
+          "timing": "Economize para a progressão de quarto após concluir os upgrades de setup mais úteis.",
+          "tip": "Entre no próximo quarto com Cash restante suficiente para continuar pedindo comida e transmitindo."
+        }
+      ]
+    },
+    "streamMukbangAudience": {
+      "title": "Guia de Visualizações, Curtidas e Seguidores de Stream a Mukbang",
+      "eyebrow": "Crescimento de Audiência",
+      "subtitle": "Comer comida enquanto transmite aumenta várias estatísticas de audiência ao mesmo tempo. Transmissões concluídas fornecem o Cash usado para comida, móveis e quartos.",
+      "intro": "O ciclo principal de progressão é simples: pedir comida, iniciar uma transmissão, dar mordidas, aumentar a audiência, ganhar Cash e melhorar o setup. Repetir esse ciclo move o canal de uma conta básica de mukbang em direção à posição de streamer principal.",
+      "stats": [
+        {
+          "name": "Visualizações",
+          "generatedBy": "Comer comida e dar mordidas durante uma transmissão ativa de mukbang.",
+          "use": "Mostra quantos espectadores a transmissão está atraindo.",
+          "tip": "Continue comendo enquanto a transmissão estiver ativa em vez de deixar a comida sem uso na mesa."
+        },
+        {
+          "name": "Curtidas",
+          "generatedBy": "Engajamento da audiência produzido durante transmissões de mukbang.",
+          "use": "Acompanha as reações positivas à transmissão atual.",
+          "tip": "Realize sessões completas de alimentação regularmente para continuar gerando engajamento."
+        },
+        {
+          "name": "Seguidores",
+          "generatedBy": "Crescimento do canal por meio de transmissões repetidas de comida.",
+          "use": "Representa a audiência que continua seguindo você entre as transmissões.",
+          "tip": "Priorize uma progressão constante em vez de gastar todo o Cash em uma única compra cara."
+        },
+        {
+          "name": "Comentários",
+          "generatedBy": "Reações da audiência que aparecem enquanto você come na câmera.",
+          "use": "Adiciona feedback ao vivo e atividade à transmissão de mukbang.",
+          "tip": "Continue dando mordidas para manter a transmissão ativa e a audiência reagindo."
+        },
+        {
+          "name": "Cash",
+          "generatedBy": "Concluir e expandir transmissões de mukbang.",
+          "use": "Serve como a principal moeda de progressão.",
+          "tip": "Sempre reserve parte do saldo de Cash para o próximo pedido de comida."
+        },
+        {
+          "name": "Posição de Streamer",
+          "generatedBy": "Aumentar as estatísticas de audiência, ganhar Cash e melhorar o setup.",
+          "use": "Acompanha o progresso em direção ao objetivo de streamer principal do jogo.",
+          "tip": "Equilibre o crescimento da audiência com melhorias no setup em vez de focar em apenas uma estatística."
+        }
+      ]
+    },
+    "streamMukbangRoomMansion": {
+      "title": "Guia de Quartos e Mansões de Stream a Mukbang",
+      "eyebrow": "Progressão de Quartos",
+      "subtitle": "Monte um setup de transmissão lucrativo antes de se mudar para espaços mais caros. Cada etapa deve deixar Cash suficiente para a comida e a próxima série de transmissões de mukbang.",
+      "intro": "A progressão de quartos começa com comida simples e uma área de gravação básica. Os jogadores então melhoram seus móveis e cenário, aumentam sua audiência por meio de transmissões repetidas e, eventualmente, trabalham em direção à mansão de luxo e à posição de streamer principal.",
+      "stages": [
+        {
+          "stage": "1",
+          "name": "Quarto Inicial Básico",
+          "focus": "Aprenda a pedir comida, iniciar uma transmissão e dar mordidas.",
+          "upgrades": [
+            "Estoque de comida inicial",
+            "Primeira melhoria de mesa acessível",
+            "Primeira melhoria de cadeira acessível"
+          ],
+          "goal": "Criar uma rotina repetível de transmitir e ganhar.",
+          "moveOn": "As compras de comida não consomem mais todo o saldo de Cash."
+        },
+        {
+          "stage": "2",
+          "name": "Setup de Transmissão Melhorado",
+          "focus": "Substituir móveis básicos e tornar a área de alimentação mais completa.",
+          "upgrades": [
+            "Mesa melhor",
+            "Cadeira melhor",
+            "Primeira melhoria de cenário"
+          ],
+          "goal": "Fortalecer o setup enquanto continua a transmitir regularmente.",
+          "moveOn": "Você pode comprar melhorias sem interromper o ciclo de pedidos de comida."
+        },
+        {
+          "stage": "3",
+          "name": "Estúdio de Mukbang em Crescimento",
+          "focus": "Acumular visualizações, curtidas, seguidores e comentários por meio de sessões repetidas de alimentação.",
+          "upgrades": [
+            "Níveis adicionais de móveis",
+            "Cenário de nível mais alto",
+            "Economias para progressão de quarto"
+          ],
+          "goal": "Transformar o quarto básico em um estúdio de transmissão desenvolvido.",
+          "moveOn": "O setup está melhorado e uma reserva separada de Cash está disponível para o próximo quarto."
+        },
+        {
+          "stage": "4",
+          "name": "Mansão de Luxo",
+          "focus": "Alcançar o principal destino de progressão de quarto descrito pelo jogo.",
+          "upgrades": [
+            "Acesso à mansão",
+            "Móveis de fim de jogo",
+            "Configuração de cenário com visual premium"
+          ],
+          "goal": "Operar uma transmissão de mukbang de alto nível a partir da mansão de luxo.",
+          "moveOn": "O setup da mansão pode suportar pedidos contínuos de comida e novas melhorias."
+        },
+        {
+          "stage": "5",
+          "name": "Rumo ao Topo dos Streamers",
+          "focus": "Continuar transmitindo a partir do setup concluído e aumentar todas as estatísticas de audiência.",
+          "upgrades": [
+            "Melhorias de cadeira restantes",
+            "Melhorias de mesa restantes",
+            "Melhorias de cenário restantes"
+          ],
+          "goal": "Subir para a posição número um de streamer de mukbang.",
+          "moveOn": "A progressão de setup disponível está concluída e o canal atinge o topo."
+        }
+      ]
+    },
+    "streamMukbangUpdates": {
+      "title": "Atualizações e Comunidade de Stream a Mukbang",
+      "eyebrow": "Atualizações do Jogo",
+      "subtitle": "Acompanhe as adições de comida, códigos, móveis, cenários, quartos e progressão. A página da experiência no Roblox e a comunidade vibing games são os principais destinos oficiais.",
+      "intro": "Stream a Mukbang foi lançado com um ciclo completo de transmissão de comida, diversas estatísticas de audiência, melhorias de setup baseadas em Dinheiro, progressão de quartos e dois códigos de lançamento. Siga a experiência oficial e a comunidade de desenvolvedores para futuros anúncios e adições.",
+      "entries": [
+        {
+          "category": "Jogabilidade de Lançamento",
+          "headline": "Ciclo Principal de Transmissão de Mukbang",
+          "details": "Os jogadores começam com comida simples, dão mordidas enquanto transmitem, ganham visualizações, curtidas, seguidores e comentários, e ganham Dinheiro com suas transmissões.",
+          "action": "Jogue o ciclo inicial antes de investir pesado em melhorias de quarto."
+        },
+        {
+          "category": "Códigos de Lançamento",
+          "headline": "RELEASE e FREEFOOD",
+          "details": "A descrição oficial de Stream a Mukbang lista RELEASE e FREEFOOD como os códigos de recompensa iniciais do jogo.",
+          "action": "Resgate ambos os códigos exatamente como escritos antes de comprar as primeiras melhorias."
+        },
+        {
+          "category": "Progressão de Setup",
+          "headline": "Cadeiras, Mesas e Cenários",
+          "details": "O Dinheiro ganho nas transmissões pode melhorar a cadeira, a mesa, o cenário e a aparência geral do setup de gravação.",
+          "action": "Complete as melhorias funcionais de móveis antes de economizar para o quarto mais caro."
+        },
+        {
+          "category": "Progressão de Quarto",
+          "headline": "Do Quarto Básico à Mansão de Luxo",
+          "details": "A progressão principal de ambiente vai de um quarto inicial simples para uma mansão de luxo.",
+          "action": "Mantenha um orçamento de comida separado ao comprar um novo quarto ou uma grande melhoria de setup."
+        },
+        {
+          "category": "Objetivo Competitivo",
+          "headline": "Torne-se o Streamer Número Um",
+          "details": "O crescimento da audiência, os ganhos de Dinheiro e a progressão do setup apoiam o objetivo final de alcançar o topo do ranking de streamers.",
+          "action": "Continue transmitindo após grandes melhorias para transformar o setup aprimorado em crescimento de audiência."
+        }
+      ],
+      "officialLinks": [
+        {
+          "label": "Experiência no Roblox",
+          "description": "Jogue Stream a Mukbang e favorite a experiência para receber avisos de atualização.",
+          "url": "https://www.roblox.com/games/131234167969699/Stream-a-Mukbang"
+        },
+        {
+          "label": "Comunidade vibing games",
+          "description": "Siga a comunidade oficial de desenvolvedores para anúncios e novos códigos.",
+          "url": "https://www.roblox.com/communities/566259038/vibing-games"
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre Stream a Mukbang",
+    "questions": [
+      {
+        "question": "O que é Stream a Mukbang?",
+        "answer": "Stream a Mukbang é um simulador de transmissão de comida no Roblox onde você come ao vivo, aumenta visualizações, curtidas, seguidores e comentários, ganha Dinheiro e melhora seu setup de um quarto básico para uma mansão de luxo."
+      },
+      {
+        "question": "Quais são os códigos ativos de Stream a Mukbang?",
+        "answer": "A descrição oficial de Stream a Mukbang lista RELEASE para 1.000 de Dinheiro e FREEFOOD para Frango. Insira ambos em letras maiúsculas através do botão de Códigos no lado direito da tela."
+      },
+      {
+        "question": "Como ganho Dinheiro rápido no Stream a Mukbang?",
+        "answer": "A rota mais rápida para ganhar Dinheiro no Stream a Mukbang é resgatar os códigos gratuitos, manter comida disponível, realizar transmissões de comer em sequência e reinvestir antes de comprar melhorias de quarto caras."
+      },
+      {
+        "question": "Como funcionam as visualizações, curtidas e seguidores no Stream a Mukbang?",
+        "answer": "No Stream a Mukbang, cada mordida durante uma transmissão ao vivo gera visualizações, curtidas, seguidores e comentários. Essas estatísticas de audiência crescem junto com o Dinheiro que você ganha em cada transmissão concluída."
+      },
+      {
+        "question": "Onde posso jogar Stream a Mukbang?",
+        "answer": "Stream a Mukbang é gratuito para jogar no Roblox. Abra-o diretamente da página oficial da experiência em qualquer dispositivo que suporte Roblox."
+      },
+      {
+        "question": "Quem desenvolve o Stream a Mukbang?",
+        "answer": "Stream a Mukbang é desenvolvido pela vibing games. Siga a comunidade oficial da vibing games no Roblox para anúncios, novos códigos e notas de atualização."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para Stream a Mukbang?",
+    "description": "Jogue Stream a Mukbang no Roblox e junte-se à comunidade vibing games para obter códigos, guias de comida e dicas de transmissão!",
+    "joinCommunity": "Juntar-se à Comunidade",
+    "joinGame": "Jogar no Roblox"
+  },
+  "footer": {
+    "title": "Stream a Mukbang Wiki",
+    "description": "Sua central de recursos completa para códigos de Stream a Mukbang, comidas, farm de Cash, upgrades de setup e guias de progressão de mansão no Roblox.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Legal",
+    "robloxGame": "Jogar no Roblox",
+    "robloxCommunity": "Comunidade vibing games",
+    "youtube": "Vídeo de Gameplay",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Direitos Autorais",
+    "copyright": "© 2026 Stream a Mukbang Wiki. Não afiliado à vibing games ou aos desenvolvedores de Stream a Mukbang.",
+    "disclaimer": "Site de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos de Stream a Mukbang",
+      "description": "Últimos códigos ativos de Stream a Mukbang para obter Cash grátis e recompensas de comida, além de um guia passo a passo de resgate.",
+      "metaTitle": "Códigos de Stream a Mukbang - Cash Grátis e Recompensas de Comida",
+      "metaDescription": "Ganhe Cash grátis e comida com códigos ativos de Stream a Mukbang. Atualizado regularmente com códigos verificados e um guia rápido de resgate.",
+      "categoryLabel": "RESGATAR CÓDIGOS",
+      "whatIs": "O que são Códigos?",
+      "whatIsDescription": "Códigos são recompensas gratuitas lançadas pelos desenvolvedores da vibing games! Cada código concede Cash ou itens de comida para ajudar você a começar a transmitir e a melhorar seu setup mais rápido.",
+      "why": "Por que resgatar códigos?",
+      "whySteps": {
+        "step1Title": "Resgate Recursos Grátis",
+        "step1Description": "Resgate códigos ativos para obter Cash grátis e itens de comida iniciais",
+        "step2Title": "Pule o Início Lento",
+        "step2Description": "Use comida grátis para iniciar sua primeira transmissão sem gastar Cash",
+        "step3Title": "Verifique o Status do Código",
+        "step3Description": "Veja quais códigos estão ativos ou expirados antes de resgatar"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Códigos"
+    },
+    "guide": {
+      "title": "Guia de Stream a Mukbang",
+      "description": "Guias de Stream a Mukbang para iniciantes, cobrindo o ciclo básico de transmissão, controles e seu primeiro caminho de upgrade.",
+      "metaTitle": "Guia de Stream a Mukbang - Passo a Passo e Dicas para Iniciantes",
+      "metaDescription": "Aprenda a jogar Stream a Mukbang com guias para iniciantes sobre o ciclo básico de transmissão, controles, comer comida, ganhar Cash e seus primeiros upgrades.",
+      "categoryLabel": "GUIA PARA INICIANTES",
+      "whatIs": "O que é o Guia?",
+      "whatIsDescription": "Guias que orientam novos jogadores sobre como iniciar uma transmissão ao vivo, comer comida na câmera, ganhar Cash e fazer os primeiros upgrades de setup.",
+      "why": "Por que ler o guia?",
+      "whySteps": {
+        "step1Title": "Domine o Ciclo Básico",
+        "step1Description": "Entenda o ciclo de transmitir, comer, ganhar e fazer upgrade",
+        "step2Title": "Aprenda a Interface",
+        "step2Description": "Familiarize-se com os controles, botões e estatísticas na tela",
+        "step3Title": "Construa um Começo Forte",
+        "step3Description": "Siga um caminho claro para a primeira hora de jogo para obter Cash e crescimento constantes"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias"
+    },
+    "food": {
+      "title": "Comidas do Stream a Mukbang",
+      "description": "Lista completa de comidas do Stream a Mukbang com preços, condições de desbloqueio, estilo de comer e valor de transmissão para cada prato.",
+      "metaTitle": "Comidas do Stream a Mukbang - Lista de Comidas, Preços e Tier List",
+      "metaDescription": "Compare cada comida do Stream a Mukbang por preço, requisito de desbloqueio, velocidade ao comer e valor de transmissão. Encontre o melhor prato para ganhar Cash e crescer seu público.",
+      "categoryLabel": "MENU DE COMIDAS",
+      "whatIs": "O que são as Comidas?",
+      "whatIsDescription": "A comida é o cerne de cada transmissão de mukbang. Cada prato é comido ao vivo para gerar engajamento do público e Cash, com diferentes custos, níveis de desbloqueio e velocidades ao comer.",
+      "why": "Por que comparar comidas?",
+      "whySteps": {
+        "step1Title": "Escolha o Prato Certo",
+        "step1Description": "Combine o custo e o estilo de comer de cada comida com o objetivo da sua transmissão",
+        "step2Title": "Economize seu Cash",
+        "step2Description": "Evite gastar demais em comidas premium cedo demais",
+        "step3Title": "Maximize o Engajamento",
+        "step3Description": "Escolha comidas que mantenham seu público reagindo"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Comida"
+    },
+    "currency": {
+      "title": "Cash no Stream a Mukbang",
+      "description": "Guias de farming de Cash no Stream a Mukbang cobrindo todas as fontes de renda, multiplicadores e a ordem de gastos mais inteligente.",
+      "metaTitle": "Cash no Stream a Mukbang - Farming, Multiplicadores e Gastos",
+      "metaDescription": "Domine o Cash no Stream a Mukbang com rotas de farming, multiplicadores, dicas de Cash por transmissão e a melhor forma de gastar Cash em melhorias e quartos.",
+      "categoryLabel": "GUIAS DE CASH",
+      "whatIs": "O que é Cash?",
+      "whatIsDescription": "Cash é a principal moeda ganha em cada transmissão. Ele paga por comida, melhorias de cadeiras e mesas, fundos e novos quartos no caminho para a mansão.",
+      "why": "Por que gerenciar o Cash?",
+      "whySteps": {
+        "step1Title": "Conheça Todas as Fontes",
+        "step1Description": "Aprenda todas as formas como o Cash flui para o seu canal",
+        "step2Title": "Use Multiplicadores",
+        "step2Description": "Acumule bônus para aumentar seu Cash por transmissão",
+        "step3Title": "Gaste na Ordem Certa",
+        "step3Description": "Invista Cash em melhorias e quartos que tragam retorno mais rápido"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Cash"
+    },
+    "audience": {
+      "title": "Público no Stream a Mukbang",
+      "description": "Cresça seu público no Stream a Mukbang com guias sobre visualizações, curtidas, comentários, seguidores e como subir no placar de líderes de streamers.",
+      "metaTitle": "Público no Stream a Mukbang - Visualizações, Curtidas e Seguidores",
+      "metaDescription": "Aumente visualizações, curtidas, comentários e seguidores no Stream a Mukbang. Saiba quais comidas e melhorias impulsionam o engajamento e como subir no placar de líderes.",
+      "categoryLabel": "CRESCIMENTO DE PÚBLICO",
+      "whatIs": "O que é o Público?",
+      "whatIsDescription": "Seu público é medido em visualizações, curtidas, comentários e seguidores. Um público maior e mais engajado gera mais Cash por transmissão e desbloqueia um crescimento maior.",
+      "why": "Por que crescer seu público?",
+      "whySteps": {
+        "step1Title": "Aumente suas Visualizações",
+        "step1Description": "Use as comidas e melhorias certas para aumentar a contagem de visualizações",
+        "step2Title": "Ganhe Seguidores",
+        "step2Description": "Transforme espectadores ocasionais em uma base de seguidores leais",
+        "step3Title": "Suba no Placar de Líderes",
+        "step3Description": "Compita com os principais streamers e desbloqueie recompensas de ranking"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Público"
+    },
+    "upgrades": {
+      "title": "Melhorias de Stream a Mukbang",
+      "description": "Guias de melhoria de setup de Stream a Mukbang para cadeiras, mesas e fundos com custos, efeitos e a melhor ordem de compra.",
+      "metaTitle": "Melhorias de Stream a Mukbang - Cadeiras, Mesas e Fundos",
+      "metaDescription": "Compare melhorias de cadeira, mesa e fundo em Stream a Mukbang por custo e efeito. Encontre a melhor ordem de melhoria para ganhar Cash e crescer o público mais rápido.",
+      "categoryLabel": "MELHORIAS DE SETUP",
+      "whatIs": "O que são Melhorias?",
+      "whatIsDescription": "As melhorias de setup abrangem cadeiras, mesas e fundos. Cada melhoria aumenta sua eficiência de streaming, engajamento do público e ganhos de Cash.",
+      "why": "Por que melhorar seu setup?",
+      "whySteps": {
+        "step1Title": "Gaste Cash com Sabedoria",
+        "step1Description": "Descubra quais melhorias oferecem o melhor valor primeiro",
+        "step2Title": "Melhore em Ordem",
+        "step2Description": "Combine as melhorias com o seu estágio atual no jogo",
+        "step3Title": "Aumente a Eficiência",
+        "step3Description": "Aumente seu Cash e engajamento por stream"
+      },
+      "featured": "Featured & Essential",
+      "all": "Todos os Guias de Melhoria"
+    },
+    "progression": {
+      "title": "Progressão de Stream a Mukbang",
+      "description": "Guias de progressão de Stream a Mukbang do quarto inicial à mansão de luxo, com custos de desbloqueio e ordem de marcos.",
+      "metaTitle": "Progressão de Stream a Mukbang - Quartos e Desbloqueio da Mansão",
+      "metaDescription": "Siga a progressão de quartos em Stream a Mukbang, do quarto inicial à mansão de luxo. Encontre custos de desbloqueio, marcos e a ordem de progressão mais fluida.",
+      "categoryLabel": "PROGRESSÃO DE QUARTOS",
+      "whatIs": "O que é Progressão?",
+      "whatIsDescription": "A progressão acompanha sua jornada desde o quarto inicial básico até a mansão de luxo. Cada quarto e marco desbloqueia novas comidas, melhorias e recursos de streaming.",
+      "why": "Por que planejar a progressão?",
+      "whySteps": {
+        "step1Title": "Planeje seu Cash",
+        "step1Description": "Saiba quanto custa cada estágio de quarto antes de se comprometer",
+        "step2Title": "Melhore em Ordem",
+        "step2Description": "Termine as melhorias de setup antes de mudar para um novo quarto",
+        "step3Title": "Chegue à Mansão",
+        "step3Description": "Progrida suavemente até a mansão de luxo sem travar"
+      },
+      "featured": "Featured & Essential",
+      "all": "Todos os Guias de Progressão"
+    },
+    "updates": {
+      "title": "Atualizações de Stream a Mukbang",
+      "description": "Últimas atualizações de Stream a Mukbang com novos códigos, comidas, melhorias, mudanças de balanceamento e notícias oficiais da comunidade.",
+      "metaTitle": "Atualizações de Stream a Mukbang - Novos Códigos e Notas de Patch",
+      "metaDescription": "Fique por dentro das atualizações de Stream a Mukbang, incluindo novos códigos, comidas, melhorias de setup, mudanças de balanceamento e anúncios oficiais da vibing games!.",
+      "categoryLabel": "ATUALIZAÇÕES E NOTÍCIAS",
+      "whatIs": "O que são Atualizações?",
+      "whatIsDescription": "As atualizações acompanham cada mudança no jogo: novos códigos, comidas, melhorias de setup, adições de quartos, ajustes de balanceamento e anúncios oficiais dos desenvolvedores.",
+      "why": "Por que acompanhar as atualizações?",
+      "whySteps": {
+        "step1Title": "Nunca Perca um Código",
+        "step1Description": "Resgate novos códigos assim que forem lançados",
+        "step2Title": "Mantenha-se Atualizado",
+        "step2Description": "Acompanhe novas comidas, melhorias e mudanças de balanceamento",
+        "step3Title": "Siga as Notícias Oficiais",
+        "step3Description": "Fique por dentro dos anúncios da vibing games!"
+      },
+      "featured": "Featured & Essential",
+      "all": "Todos os Artigos de Atualização"
+    }
   }
 }
