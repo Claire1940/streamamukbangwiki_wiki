@@ -1,12 +1,14 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Stream a Mukbang Wiki - Codes, Foods & Upgrades",
+  "short_name": "Stream a Mukbang",
+  "description": "Stream a Mukbang Wiki with active codes, food unlocks, cash farming, setup upgrades, mansion progression, beginner tips, and Roblox update guides.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
+  "theme_color": "#f05a19",
   "background_color": "#0a0a0a",
+  "categories": ["games", "entertainment"],
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
